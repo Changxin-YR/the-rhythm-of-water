@@ -1,0 +1,68 @@
+{
+    "float":  [
+                  {
+                      "name":  "ledger_spacing_xs",
+                      "value":  "4vp"
+                  },
+                  {
+                      "name":  "ledger_spacing_sm",
+                      "value":  "8vp"
+                  },
+                  {
+                      "name":  "ledger_spacing_md",
+                      "value":  "16vp"
+                  },
+                  {
+                      "name":  "ledger_spacing_lg",
+                      "value":  "24vp"
+                  },
+                  {
+                      "name":  "ledger_spacing_xl",
+                      "value":  "32vp"
+                  },
+                  {
+                      "name":  "ledger_spacing_xxl",
+                      "value":  "48vp"
+                  },
+                  {
+                      "name":  "ledger_radius_sm",
+                      "value":  "8vp"
+                  },
+                  {
+                      "name":  "ledger_radius_md",
+                      "value":  "16vp"
+                  },
+                  {
+                      "name":  "ledger_radius_lg",
+                      "value":  "20vp"
+                  },
+                  {
+                      "name":  "ledger_radius_xl",
+                      "value":  "28vp"
+                  },
+                  {
+                      "name":  "ledger_font_display",
+                      "value":  "32fp"
+                  },
+                  {
+                      "name":  "ledger_font_title",
+                      "value":  "22fp"
+                  },
+                  {
+                      "name":  "ledger_font_body",
+                      "value":  "15fp"
+                  },
+                  {
+                      "name":  "ledger_font_caption",
+                      "value":  "12fp"
+                  },
+                  {
+                      "name":  "ledger_font_small",
+                      "value":  "10fp"
+                  },
+                  {
+                      "name":  "ledger_card_elevation",
+                      "value":  "8vp"
+                  }
+              ]
+}

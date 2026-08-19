@@ -1,0 +1,324 @@
+{
+    "color":  [
+                  {
+                      "name":  "start_window_background",
+                      "value":  "#F2F2F7"
+                  },
+                  {
+                      "name":  "primary",
+                      "value":  "#007AFF"
+                  },
+                  {
+                      "name":  "primary_dark",
+                      "value":  "#005EC4"
+                  },
+                  {
+                      "name":  "secondary",
+                      "value":  "#64D2FF"
+                  },
+                  {
+                      "name":  "accent",
+                      "value":  "#30B0C7"
+                  },
+                  {
+                      "name":  "background",
+                      "value":  "#F2F2F7"
+                  },
+                  {
+                      "name":  "card",
+                      "value":  "#FFFFFF"
+                  },
+                  {
+                      "name":  "text_primary",
+                      "value":  "#1D1D1F"
+                  },
+                  {
+                      "name":  "text_secondary",
+                      "value":  "#5C5C63"
+                  },
+                  {
+                      "name":  "success",
+                      "value":  "#217D37"
+                  },
+                  {
+                      "name":  "warning",
+                      "value":  "#8A4B00"
+                  },
+                  {
+                      "name":  "background_dark",
+                      "value":  "#000000"
+                  },
+                  {
+                      "name":  "card_dark",
+                      "value":  "#1C1C1E"
+                  },
+                  {
+                      "name":  "text_primary_dark",
+                      "value":  "#F5F5F7"
+                  },
+                  {
+                      "name":  "text_secondary_dark",
+                      "value":  "#AEAEB2"
+                  },
+                  {
+                      "name":  "ledger_background_color",
+                      "value":  "#F2F2F7"
+                  },
+                  {
+                      "name":  "ledger_card_bg",
+                      "value":  "#FFFFFF"
+                  },
+                  {
+                      "name":  "ledger_primary_color",
+                      "value":  "#007AFF"
+                  },
+                  {
+                      "name":  "ledger_primary_light",
+                      "value":  "#E5F2FF"
+                  },
+                  {
+                      "name":  "ledger_primary_surface",
+                      "value":  "#DDEEFF"
+                  },
+                  {
+                      "name":  "ledger_income_green",
+                      "value":  "#217D37"
+                  },
+                  {
+                      "name":  "ledger_income_green_light",
+                      "value":  "#E8F6EC"
+                  },
+                  {
+                      "name":  "ledger_expense_red",
+                      "value":  "#D70015"
+                  },
+                  {
+                      "name":  "ledger_expense_red_light",
+                      "value":  "#FCE8EA"
+                  },
+                  {
+                      "name":  "ledger_text_primary",
+                      "value":  "#1D1D1F"
+                  },
+                  {
+                      "name":  "ledger_text_secondary",
+                      "value":  "#5C5C63"
+                  },
+                  {
+                      "name":  "ledger_text_hint",
+                      "value":  "#5C5C63"
+                  },
+                  {
+                      "name":  "ledger_divider_color",
+                      "value":  "#F3F4F6"
+                  },
+                  {
+                      "name":  "ledger_tab_inactive",
+                      "value":  "#5C5C63"
+                  },
+                  {
+                      "name":  "ledger_start_window_background",
+                      "value":  "#F2F2F7"
+                  },
+                  {
+                      "name":  "ledger_shadow_color",
+                      "value":  "#0A000000"
+                  },
+                  {
+                      "name":  "ledger_keyboard_bg",
+                      "value":  "#FFFFFF"
+                  },
+                  {
+                      "name":  "ledger_keyboard_key_bg",
+                      "value":  "#E9E9EE"
+                  },
+                  {
+                      "name":  "ledger_category_bg",
+                      "value":  "#E5F2FF"
+                  },
+                  {
+                      "name":  "ledger_card_text_primary",
+                      "value":  "#FFFFFF"
+                  },
+                  {
+                      "name":  "ledger_card_text_secondary",
+                      "value":  "#FFFFFF"
+                  },
+                  {
+                      "name":  "ledger_card_text_hint",
+                      "value":  "#FFFFFF"
+                  },
+                  {
+                      "name":  "ledger_card_divider",
+                      "value":  "#FFFFFF26"
+                  },
+                  {
+                      "name":  "ledger_category_unselected_bg",
+                      "value":  "#E9E9EE"
+                  },
+                  {
+                      "name":  "ledger_progress_bg",
+                      "value":  "#D1D1D6"
+                  },
+                  {
+                      "name":  "ledger_progress_safe",
+                      "value":  "#217D37"
+                  },
+                  {
+                      "name":  "ledger_progress_warning",
+                      "value":  "#8A4B00"
+                  },
+                  {
+                      "name":  "ledger_progress_danger",
+                      "value":  "#D70015"
+                  },
+                  {
+                      "name":  "ledger_dialog_overlay",
+                      "value":  "#6B000000"
+                  },
+                  {
+                      "name":  "ledger_button_secondary_bg",
+                      "value":  "#F3F4F6"
+                  },
+                  {
+                      "name":  "ledger_settings_icon_orange",
+                      "value":  "#EA580C"
+                  },
+                  {
+                      "name":  "ledger_settings_icon_orange_bg",
+                      "value":  "#FFF7ED"
+                  },
+                  {
+                      "name":  "ledger_settings_icon_indigo",
+                      "value":  "#4F46E5"
+                  },
+                  {
+                      "name":  "ledger_settings_icon_indigo_bg",
+                      "value":  "#EEF2FF"
+                  },
+                  {
+                      "name":  "ledger_streak_gold",
+                      "value":  "#8A4B00"
+                  },
+                  {
+                      "name":  "ledger_streak_gold_bg",
+                      "value":  "#FFFBEB"
+                  },
+                  {
+                      "name":  "ledger_surface",
+                      "value":  "#FFFFFF"
+                  },
+                  {
+                      "name":  "ledger_canvas",
+                      "value":  "#F2F2F7"
+                  },
+                  {
+                      "name":  "ledger_system_bar_transparent",
+                      "value":  "#00000000"
+                  },
+                  {
+                      "name":  "ledger_ink",
+                      "value":  "#1D1D1F"
+                  },
+                  {
+                      "name":  "ledger_muted",
+                      "value":  "#5C5C63"
+                  },
+                  {
+                      "name":  "ledger_category_fallback",
+                      "value":  "#007AFF"
+                  },
+                  {
+                      "name":  "ledger_accent",
+                      "value":  "#30B0C7"
+                  },
+                  {
+                      "name":  "ledger_accent_end",
+                      "value":  "#78AAFF"
+                  },
+                  {
+                      "name":  "ledger_shadow",
+                      "value":  "#00000000"
+                  },
+                  {
+                      "name":  "ledger_card_shadow",
+                      "value":  "#00000000"
+                  },
+                  {
+                      "name":  "ledger_divider",
+                      "value":  "#C6C6C8"
+                  },
+                  {
+                      "name":  "ledger_income_soft",
+                      "value":  "#E8F6EC"
+                  },
+                  {
+                      "name":  "ledger_expense_soft",
+                      "value":  "#FCE8EA"
+                  },
+                  {
+                      "name":  "ledger_category_palette_01",
+                      "value":  "#4F46E5"
+                  },
+                  {
+                      "name":  "ledger_category_palette_02",
+                      "value":  "#7C3AED"
+                  },
+                  {
+                      "name":  "ledger_category_palette_03",
+                      "value":  "#DB2777"
+                  },
+                  {
+                      "name":  "ledger_category_palette_04",
+                      "value":  "#E11D48"
+                  },
+                  {
+                      "name":  "ledger_category_palette_05",
+                      "value":  "#EA580C"
+                  },
+                  {
+                      "name":  "ledger_category_palette_06",
+                      "value":  "#CA8A04"
+                  },
+                  {
+                      "name":  "ledger_category_palette_07",
+                      "value":  "#16A34A"
+                  },
+                  {
+                      "name":  "ledger_category_palette_08",
+                      "value":  "#0D9488"
+                  },
+                  {
+                      "name":  "ledger_category_palette_09",
+                      "value":  "#0891B2"
+                  },
+                  {
+                      "name":  "ledger_category_palette_10",
+                      "value":  "#2563EB"
+                  },
+                  {
+                      "name":  "ledger_category_palette_11",
+                      "value":  "#4338CA"
+                  },
+                  {
+                      "name":  "ledger_category_palette_12",
+                      "value":  "#9333EA"
+                  },
+                  {
+                      "name":  "ledger_category_palette_13",
+                      "value":  "#C026D3"
+                  },
+                  {
+                      "name":  "ledger_category_palette_14",
+                      "value":  "#F472B6"
+                  },
+                  {
+                      "name":  "ledger_category_palette_15",
+                      "value":  "#F97316"
+                  },
+                  {
+                      "name":  "ledger_category_palette_16",
+                      "value":  "#65A30D"
+                  }
+              ]
+}
