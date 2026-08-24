@@ -1,0 +1,260 @@
+{
+  "color": [
+    {
+      "name": "start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "primary",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "primary_dark",
+      "value": "#0066CC"
+    },
+    {
+      "name": "secondary",
+      "value": "#30B0C7"
+    },
+    {
+      "name": "accent",
+      "value": "#64D2FF"
+    },
+    {
+      "name": "background",
+      "value": "#000000"
+    },
+    {
+      "name": "card",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "text_primary",
+      "value": "#F5F5F7"
+    },
+    {
+      "name": "text_secondary",
+      "value": "#AEAEB2"
+    },
+    {
+      "name": "success",
+      "value": "#30D158"
+    },
+    {
+      "name": "warning",
+      "value": "#FF9F0A"
+    },
+    {
+      "name": "background_dark",
+      "value": "#000000"
+    },
+    {
+      "name": "card_dark",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "text_primary_dark",
+      "value": "#F5F5F7"
+    },
+    {
+      "name": "text_secondary_dark",
+      "value": "#AEAEB2"
+    },
+    {
+      "name": "ledger_background_color",
+      "value": "#000000"
+    },
+    {
+      "name": "ledger_card_bg",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "ledger_primary_color",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "ledger_primary_light",
+      "value": "#102A43"
+    },
+    {
+      "name": "ledger_primary_surface",
+      "value": "#153A5F"
+    },
+    {
+      "name": "ledger_income_green",
+      "value": "#30D158"
+    },
+    {
+      "name": "ledger_income_green_light",
+      "value": "#15351F"
+    },
+    {
+      "name": "ledger_expense_red",
+      "value": "#FF453A"
+    },
+    {
+      "name": "ledger_expense_red_light",
+      "value": "#401513"
+    },
+    {
+      "name": "ledger_text_primary",
+      "value": "#F5F5F7"
+    },
+    {
+      "name": "ledger_text_secondary",
+      "value": "#D1D1D6"
+    },
+    {
+      "name": "ledger_text_hint",
+      "value": "#AEAEB2"
+    },
+    {
+      "name": "ledger_divider_color",
+      "value": "#38383A"
+    },
+    {
+      "name": "ledger_tab_inactive",
+      "value": "#AEAEB2"
+    },
+    {
+      "name": "ledger_start_window_background",
+      "value": "#000000"
+    },
+    {
+      "name": "ledger_shadow_color",
+      "value": "#000000"
+    },
+    {
+      "name": "ledger_keyboard_bg",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "ledger_keyboard_key_bg",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "ledger_category_bg",
+      "value": "#102A43"
+    },
+    {
+      "name": "ledger_card_text_primary",
+      "value": "#FFFFFF"
+    },
+    {
+      "name": "ledger_card_text_secondary",
+      "value": "#F5F5F7"
+    },
+    {
+      "name": "ledger_card_text_hint",
+      "value": "#D1D1D6"
+    },
+    {
+      "name": "ledger_card_divider",
+      "value": "#64748B"
+    },
+    {
+      "name": "ledger_category_unselected_bg",
+      "value": "#2C2C2E"
+    },
+    {
+      "name": "ledger_progress_bg",
+      "value": "#3A3A3C"
+    },
+    {
+      "name": "ledger_progress_safe",
+      "value": "#30D158"
+    },
+    {
+      "name": "ledger_progress_warning",
+      "value": "#FF9F0A"
+    },
+    {
+      "name": "ledger_progress_danger",
+      "value": "#FF453A"
+    },
+    {
+      "name": "ledger_dialog_overlay",
+      "value": "#000000"
+    },
+    {
+      "name": "ledger_button_secondary_bg",
+      "value": "#202A3A"
+    },
+    {
+      "name": "ledger_settings_icon_orange",
+      "value": "#FDBA74"
+    },
+    {
+      "name": "ledger_settings_icon_orange_bg",
+      "value": "#4A2A18"
+    },
+    {
+      "name": "ledger_settings_icon_indigo",
+      "value": "#A5B4FC"
+    },
+    {
+      "name": "ledger_settings_icon_indigo_bg",
+      "value": "#2A3158"
+    },
+    {
+      "name": "ledger_streak_gold",
+      "value": "#FFD60A"
+    },
+    {
+      "name": "ledger_streak_gold_bg",
+      "value": "#453817"
+    },
+    {
+      "name": "ledger_surface",
+      "value": "#1C1C1E"
+    },
+    {
+      "name": "ledger_canvas",
+      "value": "#000000"
+    },
+    {
+      "name": "ledger_system_bar_transparent",
+      "value": "#00000000"
+    },
+    {
+      "name": "ledger_ink",
+      "value": "#F5F5F7"
+    },
+    {
+      "name": "ledger_muted",
+      "value": "#AEAEB2"
+    },
+    {
+      "name": "ledger_category_fallback",
+      "value": "#0A84FF"
+    },
+    {
+      "name": "ledger_accent",
+      "value": "#64D2FF"
+    },
+    {
+      "name": "ledger_accent_end",
+      "value": "#9DB8FF"
+    },
+    {
+      "name": "ledger_shadow",
+      "value": "#000000"
+    },
+    {
+      "name": "ledger_card_shadow",
+      "value": "#000000"
+    },
+    {
+      "name": "ledger_divider",
+      "value": "#38383A"
+    },
+    {
+      "name": "ledger_income_soft",
+      "value": "#15351F"
+    },
+    {
+      "name": "ledger_expense_soft",
+      "value": "#401513"
+    }
+  ]
+}

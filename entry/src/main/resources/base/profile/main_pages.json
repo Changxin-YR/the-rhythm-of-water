@@ -1,0 +1,20 @@
+{
+  "src": [
+    "pages/MainPage",
+    "pages/OnboardingPage",
+    "pages/RecordDetailPage",
+    "pages/BeveragePage",
+    "pages/GoalSettingsPage",
+    "pages/ProfilePage",
+    "pages/PlantGardenPage",
+    "pages/DataManagePage",
+    "pages/ProtocolPage",
+    "pages/StatsPage",
+    "pages/AchievementPage",
+    "pages/ledger/LedgerAddBillPage",
+    "pages/ledger/LedgerEditBillPage",
+    "pages/ledger/LedgerStatisticsPage",
+    "pages/ledger/LedgerCategoryManagePage",
+    "pages/ledger/LedgerBudgetPage"
+  ]
+}

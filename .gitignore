@@ -1,0 +1,17 @@
+/node_modules
+/oh_modules
+/build
+/entry/build
+/.preview
+/.hvigor
+/.idea
+/.superpowers
+/artifacts
+/release-assets
+/device-evidence
+*.har
+*.hap
+*.log
+*.jpeg
+local.properties
+oh-package-lock.json5

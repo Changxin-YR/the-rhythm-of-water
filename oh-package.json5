@@ -1,0 +1,14 @@
+{
+  "modelVersion": "6.0.0",
+  "name": "yuanqi_youshu",
+  "version": "1.0.0",
+  "description": "元气有数 - 饮水管理与个人记账",
+  "main": "",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.28"
+  },
+  "dynamicDependencies": {}
+}

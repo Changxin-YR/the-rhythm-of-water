@@ -1,0 +1,900 @@
+{
+    "string":  [
+                   {
+                       "name":  "module_desc",
+                       "value":  "元气有数应用主模块"
+                   },
+                   {
+                       "name":  "ability_desc",
+                       "value":  "元气有数主入口"
+                   },
+                   {
+                       "name":  "tab_home",
+                       "value":  "首页"
+                   },
+                   {
+                       "name":  "tab_stats",
+                       "value":  "统计"
+                   },
+                   {
+                       "name":  "tab_achievement",
+                       "value":  "成就"
+                   },
+                   {
+                       "name":  "tab_settings",
+                       "value":  "设置"
+                   },
+                   {
+                       "name":  "onboarding_welcome",
+                       "value":  "欢迎使用元气有数"
+                   },
+                   {
+                       "name":  "onboarding_subtitle",
+                       "value":  "科学饮水，健康生活"
+                   },
+                   {
+                       "name":  "label_nickname",
+                       "value":  "昵称"
+                   },
+                   {
+                       "name":  "label_weight",
+                       "value":  "体重 (kg)"
+                   },
+                   {
+                       "name":  "label_height",
+                       "value":  "身高 (cm)"
+                   },
+                   {
+                       "name":  "label_age",
+                       "value":  "年龄"
+                   },
+                   {
+                       "name":  "label_gender",
+                       "value":  "性别"
+                   },
+                   {
+                       "name":  "gender_male",
+                       "value":  "男"
+                   },
+                   {
+                       "name":  "gender_female",
+                       "value":  "女"
+                   },
+                   {
+                       "name":  "label_activity",
+                       "value":  "运动量"
+                   },
+                   {
+                       "name":  "activity_sedentary",
+                       "value":  "久坐"
+                   },
+                   {
+                       "name":  "activity_light",
+                       "value":  "轻度活动"
+                   },
+                   {
+                       "name":  "activity_moderate",
+                       "value":  "中度活动"
+                   },
+                   {
+                       "name":  "activity_active",
+                       "value":  "高强度"
+                   },
+                   {
+                       "name":  "activity_athlete",
+                       "value":  "运动员"
+                   },
+                   {
+                       "name":  "btn_start",
+                       "value":  "开始使用"
+                   },
+                   {
+                       "name":  "btn_next",
+                       "value":  "下一步"
+                   },
+                   {
+                       "name":  "btn_save",
+                       "value":  "保存"
+                   },
+                   {
+                       "name":  "btn_cancel",
+                       "value":  "取消"
+                   },
+                   {
+                       "name":  "btn_confirm",
+                       "value":  "确认"
+                   },
+                   {
+                       "name":  "btn_delete",
+                       "value":  "删除"
+                   },
+                   {
+                       "name":  "btn_undo",
+                       "value":  "撤销"
+                   },
+                   {
+                       "name":  "btn_custom",
+                       "value":  "+ 自定义"
+                   },
+                   {
+                       "name":  "label_today",
+                       "value":  "今日"
+                   },
+                   {
+                       "name":  "label_remaining",
+                       "value":  "还需喝 %s ml 即可达标"
+                   },
+                   {
+                       "name":  "label_goal_reached",
+                       "value":  "今日目标已达成！"
+                   },
+                   {
+                       "name":  "label_today_records",
+                       "value":  "今日记录"
+                   },
+                   {
+                       "name":  "label_no_records",
+                       "value":  "还没有记录，开始喝水吧"
+                   },
+                   {
+                       "name":  "snackbar_recorded",
+                       "value":  "已记录 %s ml %s"
+                   },
+                   {
+                       "name":  "stats_week",
+                       "value":  "本周"
+                   },
+                   {
+                       "name":  "stats_month",
+                       "value":  "本月"
+                   },
+                   {
+                       "name":  "stats_year",
+                       "value":  "本年"
+                   },
+                   {
+                       "name":  "stats_avg",
+                       "value":  "日均"
+                   },
+                   {
+                       "name":  "stats_goal_days",
+                       "value":  "达标天数"
+                   },
+                   {
+                       "name":  "stats_period",
+                       "value":  "时段分析"
+                   },
+                   {
+                       "name":  "stats_beverage",
+                       "value":  "饮品构成"
+                   },
+                   {
+                       "name":  "period_morning",
+                       "value":  "上午"
+                   },
+                   {
+                       "name":  "period_afternoon",
+                       "value":  "下午"
+                   },
+                   {
+                       "name":  "period_evening",
+                       "value":  "晚上"
+                   },
+                   {
+                       "name":  "achievement_streak",
+                       "value":  "连续打卡"
+                   },
+                   {
+                       "name":  "achievement_level",
+                       "value":  "当前等级"
+                   },
+                   {
+                       "name":  "achievement_badges",
+                       "value":  "成就徽章"
+                   },
+                   {
+                       "name":  "achievement_challenge",
+                       "value":  "每日挑战"
+                   },
+                   {
+                       "name":  "plant_title",
+                       "value":  "我的植物"
+                   },
+                   {
+                       "name":  "plant_garden",
+                       "value":  "植物花园"
+                   },
+                   {
+                       "name":  "settings_profile",
+                       "value":  "个人资料"
+                   },
+                   {
+                       "name":  "settings_goal",
+                       "value":  "饮水目标"
+                   },
+                   {
+                       "name":  "settings_beverage",
+                       "value":  "饮品管理"
+                   },
+                   {
+                       "name":  "settings_theme",
+                       "value":  "主题色"
+                   },
+                   {
+                       "name":  "settings_dark_mode",
+                       "value":  "深色模式"
+                   },
+                   {
+                       "name":  "settings_unit",
+                       "value":  "单位"
+                   },
+                   {
+                       "name":  "settings_data",
+                       "value":  "数据管理"
+                   },
+                   {
+                       "name":  "settings_about",
+                       "value":  "关于"
+                   },
+                   {
+                       "name":  "dark_mode_system",
+                       "value":  "跟随系统"
+                   },
+                   {
+                       "name":  "dark_mode_light",
+                       "value":  "浅色"
+                   },
+                   {
+                       "name":  "dark_mode_dark",
+                       "value":  "深色"
+                   },
+                   {
+                       "name":  "data_backup",
+                       "value":  "备份数据"
+                   },
+                   {
+                       "name":  "data_restore",
+                       "value":  "恢复数据"
+                   },
+                   {
+                       "name":  "data_reset",
+                       "value":  "重置数据"
+                   },
+                   {
+                       "name":  "data_reset_confirm",
+                       "value":  "确定要清除所有数据吗？此操作不可恢复。"
+                   },
+                   {
+                       "name":  "ledger_module_desc",
+                       "value":  "记账本主模块"
+                   },
+                   {
+                       "name":  "ledger_EntryAbility_desc",
+                       "value":  "一款简洁高效的纯本地个人记账应用，帮助您轻松管理日常收支"
+                   },
+                   {
+                       "name":  "ledger_EntryAbility_label",
+                       "value":  "元气有数账本"
+                   },
+                   {
+                       "name":  "ledger_app_name",
+                       "value":  "元气有数账本"
+                   },
+                   {
+                       "name":  "ledger_tab_home",
+                       "value":  "首页"
+                   },
+                   {
+                       "name":  "ledger_tab_bills",
+                       "value":  "账单"
+                   },
+                   {
+                       "name":  "ledger_tab_statistics",
+                       "value":  "统计"
+                   },
+                   {
+                       "name":  "ledger_tab_settings",
+                       "value":  "设置"
+                   },
+                   {
+                       "name":  "ledger_income",
+                       "value":  "收入"
+                   },
+                   {
+                       "name":  "ledger_expense",
+                       "value":  "支出"
+                   },
+                   {
+                       "name":  "ledger_balance",
+                       "value":  "结余"
+                   },
+                   {
+                       "name":  "ledger_today",
+                       "value":  "今日"
+                   },
+                   {
+                       "name":  "ledger_this_month",
+                       "value":  "本月"
+                   },
+                   {
+                       "name":  "ledger_add_bill",
+                       "value":  "记一笔"
+                   },
+                   {
+                       "name":  "ledger_save",
+                       "value":  "保存"
+                   },
+                   {
+                       "name":  "ledger_cancel",
+                       "value":  "取消"
+                   },
+                   {
+                       "name":  "ledger_delete",
+                       "value":  "删除"
+                   },
+                   {
+                       "name":  "ledger_confirm",
+                       "value":  "确认"
+                   },
+                   {
+                       "name":  "ledger_note_hint",
+                       "value":  "添加备注..."
+                   },
+                   {
+                       "name":  "ledger_search_hint",
+                       "value":  "搜索账单..."
+                   },
+                   {
+                       "name":  "ledger_no_bills",
+                       "value":  "暂无账单"
+                   },
+                   {
+                       "name":  "ledger_monthly_trend",
+                       "value":  "月度趋势"
+                   },
+                   {
+                       "name":  "ledger_category_ranking",
+                       "value":  "分类排行"
+                   },
+                   {
+                       "name":  "ledger_dark_mode",
+                       "value":  "深色模式"
+                   },
+                   {
+                       "name":  "ledger_about",
+                       "value":  "关于"
+                   },
+                   {
+                       "name":  "ledger_version",
+                       "value":  "版本"
+                   },
+                   {
+                       "name":  "ledger_recent_bills",
+                       "value":  "最近交易"
+                   },
+                   {
+                       "name":  "ledger_select_date",
+                       "value":  "选择日期"
+                   },
+                   {
+                       "name":  "ledger_amount",
+                       "value":  "金额"
+                   },
+                   {
+                       "name":  "ledger_category_manage",
+                       "value":  "分类管理"
+                   },
+                   {
+                       "name":  "ledger_budget_manage",
+                       "value":  "预算管理"
+                   },
+                   {
+                       "name":  "ledger_export_data",
+                       "value":  "导出数据"
+                   },
+                   {
+                       "name":  "ledger_clear_data",
+                       "value":  "清除数据"
+                   },
+                   {
+                       "name":  "ledger_clear_data_title",
+                       "value":  "清除所有数据"
+                   },
+                   {
+                       "name":  "ledger_clear_data_message",
+                       "value":  "确定要清除所有账单数据吗？此操作不可恢复！"
+                   },
+                   {
+                       "name":  "ledger_clear_data_done",
+                       "value":  "所有账单数据已清除。"
+                   },
+                   {
+                       "name":  "ledger_export_success",
+                       "value":  "导出成功"
+                   },
+                   {
+                       "name":  "ledger_export_fail",
+                       "value":  "导出失败"
+                   },
+                   {
+                       "name":  "ledger_delete_confirm_title",
+                       "value":  "确认删除"
+                   },
+                   {
+                       "name":  "ledger_delete_confirm_message",
+                       "value":  "确定要删除这笔账单吗？"
+                   },
+                   {
+                       "name":  "ledger_edit_bill",
+                       "value":  "编辑账单"
+                   },
+                   {
+                       "name":  "ledger_view_all",
+                       "value":  "查看全部"
+                   },
+                   {
+                       "name":  "ledger_view_detail_stats",
+                       "value":  "查看详细统计"
+                   },
+                   {
+                       "name":  "ledger_no_transactions_today",
+                       "value":  "今日暂无交易"
+                   },
+                   {
+                       "name":  "ledger_start_recording",
+                       "value":  "点击右下角按钮开始记账"
+                   },
+                   {
+                       "name":  "ledger_start_first_bill",
+                       "value":  "开始记录您的第一笔账单吧"
+                   },
+                   {
+                       "name":  "ledger_all",
+                       "value":  "全部"
+                   },
+                   {
+                       "name":  "ledger_set_budget",
+                       "value":  "设置预算"
+                   },
+                   {
+                       "name":  "ledger_modify_budget",
+                       "value":  "修改预算"
+                   },
+                   {
+                       "name":  "ledger_set_monthly_budget",
+                       "value":  "设置月预算"
+                   },
+                   {
+                       "name":  "ledger_budget_input_hint",
+                       "value":  "请输入预算金额"
+                   },
+                   {
+                       "name":  "ledger_no_budget_set",
+                       "value":  "暂未设置预算"
+                   },
+                   {
+                       "name":  "ledger_budget_set_tip",
+                       "value":  "设置每月预算，合理控制开支"
+                   },
+                   {
+                       "name":  "ledger_history_budget",
+                       "value":  "历史预算"
+                   },
+                   {
+                       "name":  "ledger_add_category",
+                       "value":  "添加分类"
+                   },
+                   {
+                       "name":  "ledger_category_name_hint",
+                       "value":  "分类名称"
+                   },
+                   {
+                       "name":  "ledger_select_icon",
+                       "value":  "选择图标"
+                   },
+                   {
+                       "name":  "ledger_select_color",
+                       "value":  "选择颜色"
+                   },
+                   {
+                       "name":  "ledger_preset",
+                       "value":  "预设"
+                   },
+                   {
+                       "name":  "ledger_expense_categories",
+                       "value":  "支出分类"
+                   },
+                   {
+                       "name":  "ledger_income_categories",
+                       "value":  "收入分类"
+                   },
+                   {
+                       "name":  "ledger_app_description",
+                       "value":  "一款简洁高效的个人记账应用"
+                   },
+                   {
+                       "name":  "ledger_greeting",
+                       "value":  "欢迎回来"
+                   },
+                   {
+                       "name":  "ledger_empty_title",
+                       "value":  "还没有账单"
+                   },
+                   {
+                       "name":  "ledger_empty_subtitle",
+                       "value":  "记录每一笔收支，掌握生活节奏"
+                   },
+                   {
+                       "name":  "ledger_bills_search",
+                       "value":  "搜索账单"
+                   },
+                   {
+                       "name":  "ledger_filter",
+                       "value":  "筛选"
+                   },
+                   {
+                       "name":  "ledger_total_records",
+                       "value":  "累计记账"
+                   },
+                   {
+                       "name":  "ledger_month_records",
+                       "value":  "本月记账"
+                   },
+                   {
+                       "name":  "ledger_total_days",
+                       "value":  "累计天数"
+                   },
+                   {
+                       "name":  "ledger_continue_days",
+                       "value":  "连续记账"
+                   },
+                   {
+                       "name":  "ledger_add_note",
+                       "value":  "添加备注"
+                   },
+                   {
+                       "name":  "ledger_complete",
+                       "value":  "完成"
+                   },
+                   {
+                       "name":  "ledger_currency",
+                       "value":  "¥"
+                   },
+                   {
+                       "name":  "ledger_detail_statistics",
+                       "value":  "查看详细统计"
+                   },
+                   {
+                       "name":  "ledger_settings_subtitle",
+                       "value":  "管理你的记账偏好与数据"
+                   },
+                   {
+                       "name":  "ledger_stats_subtitle",
+                       "value":  "收支趋势与分类分析"
+                   },
+                   {
+                       "name":  "ledger_month",
+                       "value":  "本月"
+                   },
+                   {
+                       "name":  "ledger_other",
+                       "value":  "其他"
+                   },
+                   {
+                       "name":  "ledger_greeting_night",
+                       "value":  "夜深了"
+                   },
+                   {
+                       "name":  "ledger_greeting_morning",
+                       "value":  "早上好"
+                   },
+                   {
+                       "name":  "ledger_greeting_noon",
+                       "value":  "中午好"
+                   },
+                   {
+                       "name":  "ledger_greeting_afternoon",
+                       "value":  "下午好"
+                   },
+                   {
+                       "name":  "ledger_greeting_evening",
+                       "value":  "晚上好"
+                   },
+                   {
+                       "name":  "ledger_today_transactions",
+                       "value":  "今日交易"
+                   },
+                   {
+                       "name":  "ledger_bills_subtitle",
+                       "value":  "查看本月收支记录"
+                   },
+                   {
+                       "name":  "ledger_record_days",
+                       "value":  "记账天数"
+                   },
+                   {
+                       "name":  "ledger_export_success_message",
+                       "value":  "已导出到应用目录"
+                   },
+                   {
+                       "name":  "ledger_export_fail_message",
+                       "value":  "导出数据时发生错误"
+                   },
+                   {
+                       "name":  "ledger_version_value",
+                       "value":  "v1.0.0"
+                   },
+                   {
+                       "name":  "ledger_navigation_hint",
+                       "value":  "\u003e"
+                   },
+                   {
+                       "name":  "ledger_add_action",
+                       "value":  "+"
+                   },
+                   {
+                       "name":  "ledger_csv_date",
+                       "value":  "日期"
+                   },
+                   {
+                       "name":  "ledger_csv_type",
+                       "value":  "类型"
+                   },
+                   {
+                       "name":  "ledger_csv_category",
+                       "value":  "分类"
+                   },
+                   {
+                       "name":  "ledger_csv_amount",
+                       "value":  "金额"
+                   },
+                   {
+                       "name":  "ledger_csv_note",
+                       "value":  "备注"
+                   },
+                   {
+                       "name":  "ledger_csv_income",
+                       "value":  "收入"
+                   },
+                   {
+                       "name":  "ledger_csv_expense",
+                       "value":  "支出"
+                   },
+                   {
+                       "name":  "ledger_csv_other",
+                       "value":  "其他"
+                   },
+                   {
+                       "name":  "ledger_clear_data_fail_message",
+                       "value":  "清除数据时发生错误"
+                   },
+                   {
+                       "name":  "ledger_amount_required",
+                       "value":  "请输入金额"
+                   },
+                   {
+                       "name":  "ledger_category_required",
+                       "value":  "请选择分类"
+                   },
+                   {
+                       "name":  "ledger_save_success",
+                       "value":  "记录成功"
+                   },
+                   {
+                       "name":  "ledger_save_fail",
+                       "value":  "保存失败"
+                   },
+                   {
+                       "name":  "ledger_edit_success",
+                       "value":  "修改成功"
+                   },
+                   {
+                       "name":  "ledger_daily_trend",
+                       "value":  "每日趋势"
+                   },
+                   {
+                       "name":  "ledger_delete_success",
+                       "value":  "删除成功"
+                   },
+                   {
+                       "name":  "ledger_delete_fail",
+                       "value":  "删除失败"
+                   },
+                   {
+                       "name":  "ledger_load_fail",
+                       "value":  "加载数据失败，请重试"
+                   },
+                   {
+                       "name":  "ledger_budget_save_success",
+                       "value":  "预算设置成功"
+                   },
+                   {
+                       "name":  "ledger_budget_title",
+                       "value":  "预算"
+                   },
+                   {
+                       "name":  "ledger_budget_spent",
+                       "value":  "已花费"
+                   },
+                   {
+                       "name":  "ledger_budget_remaining",
+                       "value":  "剩余"
+                   },
+                   {
+                       "name":  "ledger_budget_empty",
+                       "value":  "未设置预算"
+                   },
+                   {
+                       "name":  "ledger_budget_tip",
+                       "value":  "设置月度预算来控制开支"
+                   },
+                   {
+                       "name":  "ledger_budget_set",
+                       "value":  "设置预算"
+                   },
+                   {
+                       "name":  "ledger_budget_modify",
+                       "value":  "修改预算"
+                   },
+                   {
+                       "name":  "ledger_budget_history",
+                       "value":  "历史记录"
+                   },
+                   {
+                       "name":  "ledger_budget_dialog_title",
+                       "value":  "设置月预算"
+                   },
+                   {
+                       "name":  "ledger_budget_amount_placeholder",
+                       "value":  "输入金额"
+                   },
+                   {
+                       "name":  "ledger_budget_used",
+                       "value":  "已使用"
+                   },
+                   {
+                       "name":  "ledger_previous_month",
+                       "value":  "‹"
+                   },
+                   {
+                       "name":  "ledger_next_month",
+                       "value":  "›"
+                   },
+                   {
+                       "name":  "ledger_category_name_required",
+                       "value":  "请输入分类名称"
+                   },
+                   {
+                       "name":  "ledger_category_icon_required",
+                       "value":  "请选择图标"
+                   },
+                   {
+                       "name":  "ledger_category_add_success",
+                       "value":  "添加成功"
+                   },
+                   {
+                       "name":  "ledger_category_add_fail",
+                       "value":  "添加失败，请重试"
+                   },
+                   {
+                       "name":  "ledger_category_deleted",
+                       "value":  "已删除"
+                   },
+                   {
+                       "name":  "ledger_category_delete_fail",
+                       "value":  "删除失败，请重试"
+                   },
+                   {
+                       "name":  "ledger_category_delete_title",
+                       "value":  "提示"
+                   },
+                   {
+                       "name":  "ledger_category_delete_message",
+                       "value":  "“%s”下有%d笔账单，删除后这些账单将归入“其他”分类。确定删除吗？"
+                   },
+                   {
+                       "name":  "ledger_category_name_placeholder",
+                       "value":  "分类名称"
+                   },
+                   {
+                       "name":  "ledger_no_notifications",
+                       "value":  "暂无通知"
+                   },
+                   {
+                       "name":  "ledger_daily_details",
+                       "value":  "每日明细"
+                   },
+                   {
+                       "name":  "ledger_daily_total",
+                       "value":  "当日总额"
+                   },
+                   {
+                       "name":  "ledger_chart_total_expense",
+                       "value":  "今日共支出"
+                   },
+                   {
+                       "name":  "ledger_chart_total_income",
+                       "value":  "今日共收入"
+                   },
+                   {
+                       "name":  "ledger_chart_category_count",
+                       "value":  "%d个分类"
+                   },
+                   {
+                       "name":  "ledger_chart_empty",
+                       "value":  "暂无数据"
+                   },
+                   {
+                       "name":  "ledger_category_exp_food",
+                       "value":  "餐饮"
+                   },
+                   {
+                       "name":  "ledger_category_exp_transport",
+                       "value":  "交通"
+                   },
+                   {
+                       "name":  "ledger_category_exp_shopping",
+                       "value":  "购物"
+                   },
+                   {
+                       "name":  "ledger_category_exp_housing",
+                       "value":  "住房"
+                   },
+                   {
+                       "name":  "ledger_category_exp_entertainment",
+                       "value":  "娱乐"
+                   },
+                   {
+                       "name":  "ledger_category_exp_medical",
+                       "value":  "医疗"
+                   },
+                   {
+                       "name":  "ledger_category_exp_education",
+                       "value":  "教育"
+                   },
+                   {
+                       "name":  "ledger_category_exp_communication",
+                       "value":  "通讯"
+                   },
+                   {
+                       "name":  "ledger_category_exp_clothing",
+                       "value":  "服饰"
+                   },
+                   {
+                       "name":  "ledger_category_exp_sports",
+                       "value":  "运动"
+                   },
+                   {
+                       "name":  "ledger_category_exp_social",
+                       "value":  "社交"
+                   },
+                   {
+                       "name":  "ledger_category_exp_other",
+                       "value":  "其他"
+                   },
+                   {
+                       "name":  "ledger_category_inc_salary",
+                       "value":  "工资"
+                   },
+                   {
+                       "name":  "ledger_category_inc_bonus",
+                       "value":  "奖金"
+                   },
+                   {
+                       "name":  "ledger_category_inc_parttime",
+                       "value":  "兼职"
+                   },
+                   {
+                       "name":  "ledger_category_inc_investment",
+                       "value":  "理财"
+                   },
+                   {
+                       "name":  "ledger_category_inc_redpacket",
+                       "value":  "红包"
+                   },
+                   {
+                       "name":  "ledger_category_inc_other",
+                       "value":  "其他"
+                   }
+               ]
+}
